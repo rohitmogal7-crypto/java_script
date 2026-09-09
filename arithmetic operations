@@ -1,14 +1,20 @@
+a=6
+6
+b=10
+10
+a+b
+16
+a-b
+-4
+a*b
+60
+a/b
+0.6
+a%b
+6
+0.999999999999
+0.999999999999
+0.99999999999999999
 1
-1
-typeof 1
-'number'
-a=3
-3
-typeof a
-'number'
-"helloo"
-'helloo'
-typeof 'helloo'
-'string'
-32+42
-74
+a**a
+46656
