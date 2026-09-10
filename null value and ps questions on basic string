@@ -1,0 +1,20 @@
+"giving null vslue"
+'giving null vslue'
+let year=null;
+undefined
+year
+null
+typeof year
+'object'
+"apnacollege"+123
+'apnacollege123'
+"mogal"[3]
+'a'
+let empty="";
+undefined
+empty.length
+0
+let space=" ";
+undefined
+space.length
+1
