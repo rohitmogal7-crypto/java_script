@@ -1,0 +1,38 @@
+"concept of declaration and assigning values"
+'concept of declaration and assigning values'
+let num1 = 1
+undefined
+let num2 = 2
+undefined
+sum = num1+num2
+3
+area_rect= num1*num2
+2
+let cgpa= 8.9
+undefined
+cgpa
+8.9
+"operators precendence in js by BODMAS rule"
+'operators precendence in js by BODMAS rule'
+(43-8)/38*5+9*(6/8)
+11.355263157894736
+"constant in js"
+'constant in js'
+const pi = 3.1
+undefined
+pi
+3.1
+let rad = 4
+undefined
+area = pi*rad**2
+49.6
+"var keyword in js outdated a'
+VM726:1 Uncaught SyntaxError: Invalid or unexpected token (at VM726:1:1)
+"var keyword in js outdated "
+'var keyword in js outdated '
+var x=4
+undefined
+var y=3
+undefined
+sum = x+y
+7
