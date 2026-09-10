@@ -1,0 +1,27 @@
+"prarice questions on the assignment op and unary op"
+'prarice questions on the assignment op and unary op'
+let num=5
+undefined
+let newnum=num++;
+undefined
+newnum=++num;
+7
+"camelCase"
+'camelCase'
+"use camelCase in javascript for variable decleration"
+'use camelCase in javascript for variable decleration'
+let age = 12;
+undefined
+let isAdult = true;
+isAdult
+true
+isAdult=false;
+false
+let a=2;
+undefined
+typeof a
+'number'
+a=true;
+true
+typeof a
+'boolean'
