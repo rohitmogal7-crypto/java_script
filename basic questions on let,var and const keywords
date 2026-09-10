@@ -1,0 +1,18 @@
+let age = 23
+undefined
+age+2
+25
+age
+23
+age=age+2
+25
+age
+25
+let hindi=32
+undefined
+let math=23
+undefined
+let english=43
+undefined
+avg=(hindi+math+english)/3
+32.666666666666664
