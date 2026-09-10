@@ -1,0 +1,46 @@
+"assignment operators"
+'assignment operators'
+let age=43
+undefined
+age+=1
+44
+age
+44
+age-=1
+43
+age
+43
+age*=3
+129
+age
+129
+age%=3
+0
+age
+0
+"unary operator"
+'unary operator'
+age++
+0
+age++;
+1
+age--;
+2
+age--;
+1
+age--;
+0
+age++;
+-1
+age
+0
+++age;
+1
+age
+1
+age++;
+1
+age
+2
+"that are post increment and pre increment as age++ is post and ++a is pre "
+'that are post increment and pre increment as age++ is post and ++a is pre
