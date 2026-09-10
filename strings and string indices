@@ -1,0 +1,49 @@
+"strings in js"
+'strings in js'
+let name="tonnyyyy"
+undefined
+name
+'tonnyyyy'
+let lastName='stark'
+undefined
+lastName
+'stark'
+let char="a"
+let empty=" "
+undefined
+empty
+' '
+let nums="123"
+undefined
+typeof nums
+'string'
+typeof empty
+'string'
+let empty=" "
+undefined
+empty
+' '
+let nums="123"
+undefined
+typeof nums
+'string'
+typeof empty
+'string'
+let name="TONY STARK"
+undefined
+name[0]
+'T'
+name[3]
+'Y'
+name.length
+10
+name[name.length-1]
+'K'
+"tony".length
+4
+"tony"[2]
+'n'
+let fullName="tony " + "stark " + "1"
+undefined
+fullName
+'tony stark 1'
