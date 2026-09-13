@@ -1,0 +1,14 @@
+'a'>'A'
+true
+'a'>'b'
+false
+'p'>'P'
+true
+'a'<'b'
+true
+'b'<'c'
+true
+'&'>'*'
+false
+"this was the comprasion for the non numbers "
+'this was the comprasion for the non numbers '
