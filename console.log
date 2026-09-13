@@ -1,0 +1,16 @@
+"helloo"
+'helloo'
+console.log("hello");
+VM145:1 hello
+undefined
+let num = 232;
+undefined
+console.log(num);
+VM264:1 232
+undefined
+console.log(1+2+3);
+VM337:1 6
+undefined
+console.log("hello",num,(9+9+32));
+VM450:1 hello 232 50
+undefined
