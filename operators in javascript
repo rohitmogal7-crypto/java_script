@@ -1,0 +1,34 @@
+//oprators in javascript
+let a = 10;
+let b = 5;
+
+// Arithmetic Operators
+console.log("Addition: " + (a + b)); // Addition
+console.log("Subtraction: " + (a - b));
+console.log("Multiplication: " + (a * b)); // Multiplication
+console.log("Division: " + (a / b));    
+
+// Assignment Operators
+let c = 20;
+c += 5; 
+b -= 2;
+console.log("Assignment (b -= 2): " + b); // Assignment 
+console.log("Assignment (c += 5): " + c); // Assignment
+console.log(a++);
+console.log(++a);
+console.log(a==b);
+console.log(a!=b);
+console.log(a>b);
+console.log(a<b);
+console.log(a>=b);
+console.log(a<=b);
+console.log(a%=b);
+
+let str="5";
+console.log(str==b); //can be compared with number
+console.log(str===b); //cannot be compared with number
+console.log(str!=b); //can be compared with number
+console.log(0==false); //can be compared with boolean
+console.log(0===false); //cannot be compared with boolean
+console.log(0==""); //can be compared with string
+console.log(0==="");
