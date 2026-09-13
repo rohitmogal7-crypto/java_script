@@ -1,0 +1,13 @@
+console.log("Hello, World!");
+let a = 5;
+let b = 10;
+console.log("The sum of a and b is: " + (a + b));
+// This is a simple JavaScript program that logs a greeting message and calculates the sum of two numbers. 
+let pencilprice = 2.5;
+let eresorprice = 1.5;
+let totalprice = pencilprice + eresorprice;
+console.log("The total price of pencil and eraser is: " + totalprice , "rupees");
+let output = "The total price of pencil and eraser is by let method: " + totalprice + " rupees";
+console.log(output);
+console.log(`The total price of pencil and eraser is by template literal method: ${totalprice} rupees`);
+console.log(`Template literal ${a+b}`);
