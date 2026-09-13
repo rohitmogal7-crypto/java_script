@@ -1,0 +1,54 @@
+console.log("Hello, World!");
+let age = 25;
+if(age>=18){
+    console.log(`you can vote`);
+}
+if(age<18){
+console.log(`you cant vote`);
+}
+
+let name=`rohit`;
+if(name==`rohit`){
+    console.log(`welcome ${name}`);
+}
+let color=`red`;
+if(color==`red`){
+    console.log(`stop`);
+}
+if(color==`yellow`){
+    console.log(`ready`);
+}
+if(color==`green`){
+    console.log(`go`);
+}
+
+let light=`green`;
+
+if(light==`red`){
+    console.log(`stop`);
+}
+else if(light==`yellow`){
+    console.log(`ready`);
+}
+else if(light==`green`){
+    console.log(`go`);
+}
+
+let num=0;
+if(num==2){
+    console.log("its 2");
+}
+else{
+    console.log("num is 0");
+}
+
+let size="xl";
+if(size=="x"){
+    console.log("price is 100 $");
+}
+else if(size=="xl"){
+    console.log("price is 200 $");
+}
+else{
+    console.log("price is undefined");
+}
